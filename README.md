@@ -23,3 +23,16 @@ https://qiita.com/ichi-ken/items/5a04a732524c72ff809a
 * Dockerデスクトップのインストール
   以下のリンクを辿ってdockerデスクトップをインストールする
   https://docs.docker.jp/docker-for-windows/wsl.html
+
+*suユーザーのパスワードを設定する
+設定しておくと何かと便利なので設定しておく。  
+suに切り替え
+```
+sudo su -
+```
+パスワードを設定
+```
+passwwd
+```
+
+*
