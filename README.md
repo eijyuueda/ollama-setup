@@ -12,6 +12,8 @@ https://qiita.com/ichi-ken/items/5a04a732524c72ff809a
 https://zenn.dev/osm_gunma/articles/93b0c4f6c37df7
 * DIfyのセットアップ  
 https://docs.dify.ai/getting-started/install-self-hosted/docker-compose
+* DIfyのベースURLについて  
+https://note.com/lucas_san/n/n18c0d58e8dc9
 
 ## WSLとDockerの設定
 * wsl2のインストール  
@@ -80,6 +82,10 @@ cd dify/docker
 ```
 docker compose up -d
 ```
+
+* DIfyにアクセス
+
+http://localhost/apps にホストされているのでアクセスする。
 
 * DIfyをアップデートする
 ```
